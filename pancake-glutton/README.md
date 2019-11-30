@@ -43,4 +43,4 @@ This is my first C++ program! Its the Pancake Glutton challenge. I thought it wo
  My code is not the best, but it does what the challenge requires. Test it as much as you want.
  
  # LICENSE
- See the license at [LICENSE](https://github.com/dode5656/pancake-glutton/blob/master/LICENSE)
+ See the license at [LICENSE](https://github.com/dode5656/cpp-projects/pancake-glutton/blob/master/LICENSE)
